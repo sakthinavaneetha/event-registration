@@ -107,6 +107,7 @@ background: #FFFFFF;
 ```
 
 ## OUTPUT:
+![OUTPUT](./arrows.png)
 ![OUTPUT](./o1.png)
 ![OUTPUT](./o2.png)
 ![OUTPUT](./o3.png)
