@@ -4,25 +4,34 @@ AIM:
 
 To design, develop and deploy a web application for event registration.
 DESIGN STEPS:
-Step 1:
+
+## Step 1:
 
 Create a new Frame.
-Step 2:
+
+## Step 2:
 
 Select any one present size of your choice.
-Step 3:
+
+
+## Step 3:
 
 Select the shapes you need.
-Step 4:
+
+## Step 4:
 
 Import images needed.
-Step 5:
+
+## Step 5:
 
 Validate the HTML and CSS code.
-Step 6:
+
+
+## Step 6:
 
 Publish the website in the given URL.
-DESIGN TOOL:
+
+## DESIGN TOOL:
 
 Figma
 PROGRAM :
@@ -98,11 +107,11 @@ background: #FFFFFF;
 ```
 
 ## OUTPUT:
-![OUTPUT](./o1/png)
-![OUTPUT](./o2/png)
-![OUTPUT](./o3/png)
-![OUTPUT](./o4/png)
-![OUTPUT](./o5/png)
+![OUTPUT](./o1.png)
+![OUTPUT](./o2.png)
+![OUTPUT](./o3.png)
+![OUTPUT](./o4.png)
+![OUTPUT](./o5.png)
 
 
 ## Result:
